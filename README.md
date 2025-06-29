@@ -2,7 +2,7 @@
 
 This project was completed as part of the **MVA Master 2024–2025** program.
 
-- **Students**: Abdellah Rebaine, David Arrustico, Lila Roig  
+- **Students**: Lila Roig, Abdellah Rebaine, David Arrustico
 
 ### Paper Reference
 
